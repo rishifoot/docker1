@@ -7,7 +7,7 @@ import org.springframework.web.bind.annotation.RestController;
 public class MyController {
 @GetMapping("/fetch")	
 public String getAnswer() {
-		return "Rishikesh";
+		return "Rishikesh parasar";
 	}
 
 }
